@@ -1,0 +1,1 @@
+<section class="empty-state not-found"><span>🍂</span><h1>Ups, tanamannya tak terlihat.</h1><p>Mungkin sudah berpindah tempat atau tidak ada di kebun ini.</p><a class="button button-primary" href="index.php">Kembali ke koleksi</a></section>
